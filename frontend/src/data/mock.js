@@ -136,32 +136,32 @@ export const galleryImages = [
   {
     id: 1,
     category: "Professional",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
-    alt: "Dheeraj Tongar"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mj0z7dk0_IMG20251220005251.jpg",
+    alt: "Dheeraj Tongar - Portrait"
   },
   {
     id: 2,
-    category: "Sports",
-    image: "https://images.unsplash.com/photo-1550759807-50dc0b381a1e?w=800&auto=format&fit=crop&q=80",
-    alt: "Wushu Action"
+    category: "Lifestyle",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hah6w70y_IMG_20260128_024829.jpg",
+    alt: "Dheeraj Tongar - Outdoor"
   },
   {
     id: 3,
-    category: "Sports",
-    image: "https://images.pexels.com/photos/7045623/pexels-photo-7045623.jpeg?auto=compress&cs=tinysrgb&w=800",
-    alt: "Martial Arts Training"
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
+    alt: "Dheeraj Tongar - Casual"
   },
   {
     id: 4,
-    category: "Travel",
-    image: "https://images.unsplash.com/photo-1545979756-58754f4113c2?w=800&auto=format&fit=crop&q=80",
-    alt: "Kashmir Mountains"
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/4m8wn7x8_IMG_0586%20%281%29.jpg",
+    alt: "Dheeraj Tongar"
   },
   {
     id: 5,
     category: "Travel",
-    image: "https://images.unsplash.com/photo-1546172079-906e317f07f5?w=800&auto=format&fit=crop&q=80",
-    alt: "Mountain Adventure"
+    image: "https://images.unsplash.com/photo-1545979756-58754f4113c2?w=800&auto=format&fit=crop&q=80",
+    alt: "Kashmir Mountains"
   },
   {
     id: 6,
