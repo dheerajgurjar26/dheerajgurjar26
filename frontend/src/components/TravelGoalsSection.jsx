@@ -30,11 +30,11 @@ const TravelGoalsSection = () => {
                 <div className="h-48 overflow-hidden">
                   <img
                     src={
-                      index === 1
+                      index === 0
+                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg'
+                        : index === 1
                         ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg'
-                        : index === 0
-                        ? 'https://images.unsplash.com/photo-1545979756-58754f4113c2?w=600&auto=format&fit=crop&q=80'
-                        : 'https://images.unsplash.com/photo-1545979756-58754f4113c2?w=600&auto=format&fit=crop&q=80'
+                        : 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg'
                     }
                     alt={travel.destination}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
