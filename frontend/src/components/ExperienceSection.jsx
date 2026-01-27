@@ -91,10 +91,51 @@ const ExperienceSection = () => {
                 <p className="mt-3 text-slate-700 font-medium text-sm text-center">Bella Hot Air Balloon Rides</p>
               </div>
             </div>
-            <p className="text-center text-slate-600 mt-8 max-w-2xl mx-auto">
-              Building experience in adventure tourism through hands-on involvement in family business operations.
-            </p>
           </div>
+        </div>
+
+        {/* Business Photo Gallery */}
+        <div className="mt-8 max-w-5xl mx-auto">
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+            <div className="col-span-2 rounded-2xl overflow-hidden h-64">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg"
+                alt="Aerial View - Adventure Park with Hot Air Balloon"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-2xl overflow-hidden h-64">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg"
+                alt="Hot Air Balloon in Flight"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-2xl overflow-hidden h-48">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/yqgvg8y4_IMG_20260126_212408.jpg"
+                alt="Aura Adventure Junction Park"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-2xl overflow-hidden h-48">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/utov1ruw_IMG_20260126_211513.jpg"
+                alt="Customers at Bella Hot Air Balloon"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-2xl overflow-hidden h-48">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xzmdsju3_IMG_20260126_211500.jpg"
+                alt="Adventure Activities Ground"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+          </div>
+          <p className="text-center text-slate-600 mt-6 max-w-2xl mx-auto">
+            Building experience in adventure tourism through hands-on involvement in family business operations.
+          </p>
         </div>
       </div>
     </section>
