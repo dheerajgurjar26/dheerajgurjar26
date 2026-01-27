@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://dheerajtongar.in/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Main Profile Image - Dheeraj Tongar Dheeru Gurjar -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/yaq6p2zs_IMG_20260114_201436_524.webp</image:loc>
+      <image:title>Dheeraj Tongar - Dheeru Gurjar - Official Portrait</image:title>
+      <image:caption>Dheeraj Tongar (Dheeru, Dheeraj Gurjar) - Student, Business Executive, District Wushu Medalist from Dholpur, Rajasthan</image:caption>
+    </image:image>
+    
+    <!-- Professional Portrait -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mj0z7dk0_IMG20251220005251.jpg</image:loc>
+      <image:title>Dheeraj Tongar Professional Photo</image:title>
+      <image:caption>Dheeraj Tongar - Dheeru - Professional Portrait Photo</image:caption>
+    </image:image>
+    
+    <!-- Travel Photo - Rohtang -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/a5a6vkz2_IMG_5761.jpeg</image:loc>
+      <image:title>Dheeraj Tongar at Rohtang Atal Tunnel</image:title>
+      <image:caption>Dheeraj Tongar (Dheeru Gurjar) travel photo at Rohtang Atal Tunnel, Manali</image:caption>
+    </image:image>
+    
+    <!-- Snow Adventure -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/p6ygjpsy_IMG_5756.jpeg</image:loc>
+      <image:title>Dheeraj Tongar Snow Adventure</image:title>
+      <image:caption>Dheeraj Tongar enjoying snow adventure in Manali mountains</image:caption>
+    </image:image>
+    
+    <!-- Fitness Photo -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/764iaqh4_IMG_20250926_222822%20%281%29.jpg</image:loc>
+      <image:title>Dheeraj Tongar Fitness Training</image:title>
+      <image:caption>Dheeraj Tongar (Dheeru) gym and fitness training photo</image:caption>
+    </image:image>
+    
+    <!-- Mall Road Manali -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg</image:loc>
+      <image:title>Dheeraj Tongar at Mall Road Manali</image:title>
+      <image:caption>Dheeraj Tongar travel photo at Mall Road, Manali</image:caption>
+    </image:image>
+    
+    <!-- Business - Hot Air Balloon -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg</image:loc>
+      <image:title>Bella Hot Air Balloon Rides - Dheeraj Tongar Family Business</image:title>
+      <image:caption>Bella Hot Air Balloon Rides - Family business of Dheeraj Tongar</image:caption>
+    </image:image>
+    
+    <!-- Business - Aerial View -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg</image:loc>
+      <image:title>Aura Adventure Junction - Dheeraj Tongar Business</image:title>
+      <image:caption>Aerial view of Aura Adventure Junction LLP - Dheeraj Tongar family business</image:caption>
+    </image:image>
+    
+    <!-- Childhood Photo -->
+    <image:image>
+      <image:loc>https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vq3rpu4e_IMG_20250609_184751.jpg</image:loc>
+      <image:title>Dheeraj Tongar Childhood Photo</image:title>
+      <image:caption>Young Dheeraj Tongar - Childhood memories</image:caption>
+    </image:image>
+    
+  </url>
+  
+  <!-- About Section -->
+  <url>
+    <loc>https://dheerajtongar.in/#about</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://dheerajtongar.in/#gallery</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://dheerajtongar.in/#contact</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+</urlset>
