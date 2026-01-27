@@ -159,33 +159,57 @@ export const galleryImages = [
   },
   {
     id: 5,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg",
+    alt: "With Brothers"
+  },
+  {
+    id: 6,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
+    alt: "Brotherhood Bond"
+  },
+  {
+    id: 7,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
+    alt: "Family Moments"
+  },
+  {
+    id: 8,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/klrw9zi8_IMG_20251007_123507.jpg",
+    alt: "Together Always"
+  },
+  {
+    id: 9,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pbsf7geh_IMG_20250911_222404.jpg",
+    alt: "Sibling Love"
+  },
+  {
+    id: 10,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
     alt: "Childhood Memory"
   },
   {
-    id: 6,
+    id: 11,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
     alt: "Young Dheeraj"
   },
   {
-    id: 7,
+    id: 12,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
     alt: "Childhood Days"
   },
   {
-    id: 8,
+    id: 13,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
     alt: "Growing Up"
-  },
-  {
-    id: 9,
-    category: "Business",
-    image: "https://images.unsplash.com/photo-1507608443039-bfde4fbcd142?w=800&auto=format&fit=crop&q=80",
-    alt: "Hot Air Balloon Business"
   }
 ];
 
