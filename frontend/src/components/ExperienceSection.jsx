@@ -133,7 +133,68 @@ const ExperienceSection = () => {
               />
             </div>
           </div>
-          <p className="text-center text-slate-600 mt-6 max-w-2xl mx-auto">
+        </div>
+
+        {/* Father - Business Leadership */}
+        <div className="mt-16 max-w-5xl mx-auto">
+          <div className="bg-emerald-800 rounded-3xl overflow-hidden">
+            <div className="grid md:grid-cols-2">
+              {/* Photo */}
+              <div className="h-80 md:h-auto">
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/e8vuwwos_IMG-20210109-WA0017-1.jpg"
+                  alt="Mr. Rajesh Singh - Operating Hot Air Balloon"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              {/* Content */}
+              <div className="p-8 md:p-10 flex flex-col justify-center">
+                <p className="text-emerald-300 text-sm font-medium uppercase tracking-wide mb-2">Business Leadership</p>
+                <h3 className="text-white font-serif text-2xl md:text-3xl font-bold mb-4">
+                  Mr. Rajesh Singh
+                </h3>
+                <p className="text-emerald-100 text-lg mb-2">Partner & Owner</p>
+                <p className="text-emerald-200 mb-6">Aura Adventure Junction LLP</p>
+                <p className="text-emerald-100/80 leading-relaxed">
+                  Under the visionary leadership of my father, our family business has grown into a trusted name in adventure tourism. His dedication and entrepreneurial spirit continue to inspire my own professional journey.
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          {/* Father's Photo Gallery */}
+          <div className="mt-6 grid grid-cols-4 gap-4">
+            <div className="rounded-xl overflow-hidden h-24">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pvegtrnv_IMG_20231208_141003.jpg"
+                alt="Mr. Rajesh Singh - Travel"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-xl overflow-hidden h-24">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mi9p2sjb_IMG20240903130728.jpg"
+                alt="Mr. Rajesh Singh"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-xl overflow-hidden h-24">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/jk9jthq6_IMG_20240925_200524.jpg"
+                alt="Mr. Rajesh Singh - Office"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+            <div className="rounded-xl overflow-hidden h-24">
+              <img 
+                src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/y0pymda4_IMG_20210305_182317.jpg"
+                alt="Mr. Rajesh Singh"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+          </div>
+          
+          <p className="text-center text-slate-600 mt-8 max-w-2xl mx-auto">
             Building experience in adventure tourism through hands-on involvement in family business operations.
           </p>
         </div>
