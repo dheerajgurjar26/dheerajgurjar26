@@ -82,9 +82,9 @@ const HeroSection = () => {
               {/* Main Image Container */}
               <div className="relative w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/7580984/pexels-photo-7580984.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp"
                   alt="Dheeraj Tongar"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
               
