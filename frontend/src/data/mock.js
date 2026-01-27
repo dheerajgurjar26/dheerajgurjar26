@@ -232,11 +232,41 @@ export const galleryImages = [
   {
     id: 18,
     category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg",
+    alt: "Bella Hot Air Balloon in Flight"
+  },
+  {
+    id: 19,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg",
+    alt: "Aerial View - Adventure Park"
+  },
+  {
+    id: 20,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/utov1ruw_IMG_20260126_211513.jpg",
+    alt: "Customers at Bella Hot Air Balloon"
+  },
+  {
+    id: 21,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/yqgvg8y4_IMG_20260126_212408.jpg",
+    alt: "Aura Adventure Junction Park"
+  },
+  {
+    id: 22,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xzmdsju3_IMG_20260126_211500.jpg",
+    alt: "Adventure Activities Ground"
+  },
+  {
+    id: 23,
+    category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/qzz3geos_IMG-20250617-WA0010.jpg",
     alt: "Aura Adventure Junction"
   },
   {
-    id: 19,
+    id: 24,
     category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hi88yhj9_IMG-20250617-WA0013.jpg",
     alt: "Adventure Resort Pool"
