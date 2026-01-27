@@ -29,7 +29,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-12">
           {/* Brand Section */}
           <div>
-            <h3 className="font-serif text-2xl font-bold mb-4">{personalInfo.fullName}</h3>
+            <h3 className="font-serif text-2xl font-bold mb-2">{personalInfo.fullName}</h3>
+            <p className="text-emerald-400 text-sm mb-4">Dheeru | Dheeraj Gurjar | Dheeru Gurjar</p>
             <p className="text-slate-400 leading-relaxed mb-6">
               {personalInfo.tagline}
             </p>
@@ -61,7 +62,7 @@ const Footer = () => {
 
           {/* Social Links */}
           <div>
-            <h4 className="font-semibold text-lg mb-6">Follow Me</h4>
+            <h4 className="font-semibold text-lg mb-6">Follow Dheeraj Tongar</h4>
             <div className="flex flex-wrap gap-3">
               {socialLinks.map((social) => {
                 const Icon = getSocialIcon(social.platform);
@@ -72,14 +73,27 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-emerald-800 transition-colors"
-                    aria-label={social.platform}
+                    aria-label={`${personalInfo.fullName} on ${social.platform}`}
+                    title={`Follow Dheeraj Tongar on ${social.platform}`}
                   >
                     <Icon size={18} />
                   </a>
                 );
               })}
             </div>
+            <p className="text-slate-500 text-xs mt-4">
+              Connect with Dheeraj Tongar (Dheeru) on social media
+            </p>
           </div>
+        </div>
+      </div>
+
+      {/* SEO Footer Text */}
+      <div className="border-t border-slate-800">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 py-4">
+          <p className="text-slate-600 text-xs text-center">
+            Official website of Dheeraj Tongar | Also known as Dheeru, Dheeraj Gurjar, Dheeru Gurjar | Student & Business Executive from Dholpur, Rajasthan | District Wushu Medalist | Aspiring Lawyer
+          </p>
         </div>
       </div>
 
@@ -88,7 +102,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-slate-500 text-sm flex items-center gap-1">
-              © {new Date().getFullYear()} {personalInfo.fullName}. Made with <Heart size={14} className="text-red-500" /> in India
+              © {new Date().getFullYear()} {personalInfo.fullName} (Dheeru). Made with <Heart size={14} className="text-red-500" /> in India
             </p>
             
             {/* Scroll to Top */}
