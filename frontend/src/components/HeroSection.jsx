@@ -94,7 +94,7 @@ const HeroSection = () => {
               
               {/* Badge */}
               <div className="absolute -bottom-2 right-4 bg-white px-4 py-2 rounded-full shadow-lg">
-                <span className="text-emerald-800 font-semibold text-sm">🏅 National Medalist</span>
+                <span className="text-emerald-800 font-semibold text-sm">🏅 District Medalist</span>
               </div>
             </div>
           </div>

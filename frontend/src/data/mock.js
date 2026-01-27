@@ -2,7 +2,7 @@
 
 export const personalInfo = {
   fullName: "Dheeraj Tongar",
-  tagline: "Student | Operations & Business Executive | National Wushu Medalist | Aspiring Lawyer",
+  tagline: "Student | Operations & Business Executive | District Wushu Medalist | Aspiring Lawyer",
   dateOfBirth: "14 May 2008",
   age: "18 Years",
   location: "Dholpur, Rajasthan, India",
@@ -26,9 +26,9 @@ export const sportsAchievements = [
   {
     id: 1,
     sport: "Wushu",
-    achievement: "National Silver Medal",
+    achievement: "District Silver Medal",
     year: "2018",
-    description: "Earned the prestigious National Silver Medal in Wushu, demonstrating exceptional skill and dedication to martial arts."
+    description: "Earned the prestigious District Silver Medal in Wushu, demonstrating exceptional skill and dedication to martial arts."
   },
   {
     id: 2,
