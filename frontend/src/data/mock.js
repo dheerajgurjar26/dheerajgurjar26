@@ -159,12 +159,30 @@ export const galleryImages = [
   },
   {
     id: 5,
-    category: "Travel",
-    image: "https://images.unsplash.com/photo-1545979756-58754f4113c2?w=800&auto=format&fit=crop&q=80",
-    alt: "Kashmir Mountains"
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
+    alt: "Childhood Memory"
   },
   {
     id: 6,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
+    alt: "Young Dheeraj"
+  },
+  {
+    id: 7,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
+    alt: "Childhood Days"
+  },
+  {
+    id: 8,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
+    alt: "Growing Up"
+  },
+  {
+    id: 9,
     category: "Business",
     image: "https://images.unsplash.com/photo-1507608443039-bfde4fbcd142?w=800&auto=format&fit=crop&q=80",
     alt: "Hot Air Balloon Business"
