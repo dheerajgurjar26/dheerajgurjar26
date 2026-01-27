@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, MapPin, User, Flag } from 'lucide-react';
+import { Calendar, MapPin, User, Flag, Users } from 'lucide-react';
 import { personalInfo } from '../data/mock';
 
 const AboutSection = () => {
@@ -19,9 +19,13 @@ const AboutSection = () => {
             Get to Know Me
           </p>
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-slate-800 mb-6">
-            About Me
+            About Dheeraj Tongar
           </h2>
           <div className="w-20 h-1 bg-emerald-600 mx-auto rounded-full" />
+          {/* Also Known As - SEO */}
+          <p className="mt-4 text-slate-500 text-sm">
+            Also known as: <span className="text-emerald-700 font-medium">Dheeru</span> • <span className="text-emerald-700 font-medium">Dheeraj Gurjar</span> • <span className="text-emerald-700 font-medium">Dheeru Gurjar</span>
+          </p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-center">
