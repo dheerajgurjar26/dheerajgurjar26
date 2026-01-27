@@ -336,6 +336,24 @@ export const galleryImages = [
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
     alt: "Growing Up"
+  },
+  {
+    id: 28,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vq3rpu4e_IMG_20250609_184751.jpg",
+    alt: "Little Dheeraj - Adorable Moments"
+  },
+  {
+    id: 29,
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/u53q1bj4_IMG_2408.jpg",
+    alt: "Pool Training"
+  },
+  {
+    id: 30,
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xic7fprm_IMG_20250714_191821.jpg",
+    alt: "Gym Progress"
   }
 ];
 
