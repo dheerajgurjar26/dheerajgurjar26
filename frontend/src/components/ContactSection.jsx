@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Youtube, Facebook, Camera, Mail, MapPin, Heart } from 'lucide-react';
+import { Instagram, Youtube, Facebook, Camera, Mail, MapPin, Heart, Phone, Home } from 'lucide-react';
 import { socialLinks, personalInfo } from '../data/mock';
 
 const ContactSection = () => {
@@ -31,8 +31,45 @@ const ContactSection = () => {
           </h2>
           <div className="w-20 h-1 bg-emerald-600 mx-auto rounded-full" />
           <p className="mt-6 text-slate-600 max-w-2xl mx-auto">
-            I'd love to connect with like-minded individuals. Feel free to reach out through any of my social platforms.
+            I'd love to connect with like-minded individuals. Feel free to reach out through any of my social platforms or contact details below.
           </p>
+        </div>
+
+        {/* Contact Details Cards */}
+        <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto mb-12">
+          {/* Address Card */}
+          <div className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-start gap-4">
+              <div className="w-12 h-12 bg-emerald-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                <Home size={24} className="text-emerald-700" />
+              </div>
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2">Home Address</h4>
+                <p className="text-slate-600 text-sm leading-relaxed">
+                  {personalInfo.address}
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Phone Card */}
+          <div className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-start gap-4">
+              <div className="w-12 h-12 bg-emerald-100 rounded-xl flex items-center justify-center flex-shrink-0">
+                <Phone size={24} className="text-emerald-700" />
+              </div>
+              <div>
+                <h4 className="font-semibold text-slate-800 mb-2">Mobile Number</h4>
+                <a 
+                  href={`tel:${personalInfo.mobile}`}
+                  className="text-emerald-700 font-medium text-lg hover:text-emerald-800 transition-colors"
+                >
+                  {personalInfo.mobile}
+                </a>
+                <p className="text-slate-500 text-sm mt-1">Available for calls & WhatsApp</p>
+              </div>
+            </div>
+          </div>
         </div>
 
         {/* Social Links Grid */}
