@@ -31,10 +31,10 @@ const TravelGoalsSection = () => {
                   <img
                     src={
                       index === 0
-                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg'
+                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/2jnii73n_1000011166-01.jpeg'
                         : index === 1
-                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg'
-                        : 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg'
+                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/a5a6vkz2_IMG_5761.jpeg'
+                        : 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg'
                     }
                     alt={travel.destination}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
