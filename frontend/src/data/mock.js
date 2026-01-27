@@ -165,48 +165,78 @@ export const galleryImages = [
   },
   {
     id: 6,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/akj5fyaa_IMG_5434.JPG",
+    alt: "River Adventure, Mountains"
+  },
+  {
+    id: 7,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg",
+    alt: "Valley Views, Manali"
+  },
+  {
+    id: 8,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg",
+    alt: "Golden Cliffs, Mountain River"
+  },
+  {
+    id: 9,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/qzz3geos_IMG-20250617-WA0010.jpg",
+    alt: "Aura Adventure Junction"
+  },
+  {
+    id: 10,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hi88yhj9_IMG-20250617-WA0013.jpg",
+    alt: "Adventure Resort Pool"
+  },
+  {
+    id: 11,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
     alt: "With School Friends"
   },
   {
-    id: 7,
+    id: 12,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
     alt: "Brotherhood Bond"
   },
   {
-    id: 8,
+    id: 13,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/klrw9zi8_IMG_20251007_123507.jpg",
     alt: "Together Always"
   },
   {
-    id: 9,
+    id: 14,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pbsf7geh_IMG_20250911_222404.jpg",
     alt: "Sibling Love"
   },
   {
-    id: 10,
+    id: 15,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
     alt: "Childhood Memory"
   },
   {
-    id: 11,
+    id: 16,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
     alt: "Young Dheeraj"
   },
   {
-    id: 12,
+    id: 17,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
     alt: "Childhood Days"
   },
   {
-    id: 13,
+    id: 18,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
     alt: "Growing Up"
