@@ -80,17 +80,17 @@ const SportsSection = () => {
         {/* Sports Image */}
         <div className="mt-16 relative rounded-3xl overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1550759807-50dc0b381a1e?w=1200&auto=format&fit=crop&q=80"
-            alt="Wushu Martial Arts"
-            className="w-full h-64 md:h-80 object-cover"
+            src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/764iaqh4_IMG_20250926_222822%20%281%29.jpg"
+            alt="Gym Training - Fitness"
+            className="w-full h-64 md:h-80 object-cover object-top"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 to-transparent flex items-center">
             <div className="p-8 md:p-12 max-w-lg">
               <h3 className="text-white font-serif text-3xl md:text-4xl font-bold mb-4">
-                The Spirit of Wushu
+                Discipline & Fitness
               </h3>
               <p className="text-slate-200">
-                Wushu has been more than a sport—it's been a philosophy of life, teaching balance, focus, and inner strength.
+                Physical fitness is the foundation of mental strength. Consistent training builds character, discipline, and resilience that extends beyond the gym.
               </p>
             </div>
           </div>
