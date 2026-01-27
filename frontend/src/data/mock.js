@@ -110,25 +110,25 @@ export const socialLinks = [
     id: 1,
     platform: "Instagram",
     handle: "@dheeruq",
-    url: "https://instagram.com/dheeruq"
+    url: "https://www.instagram.com/dheeruq?igsh=ZmlrcnY1dXV2bno5"
   },
   {
     id: 2,
     platform: "YouTube",
-    handle: "Dheeraj Tongar",
-    url: "https://youtube.com/@dheerajtongar"
+    handle: "@dheeraj_tongar",
+    url: "https://youtube.com/@dheeraj_tongar?si=vB_kJe6WCuXr2Vw5"
   },
   {
     id: 3,
     platform: "Facebook",
     handle: "Dheeraj Tongar",
-    url: "https://facebook.com/dheerajtongar"
+    url: "https://www.facebook.com/share/18844rfthB/"
   },
   {
     id: 4,
     platform: "Snapchat",
     handle: "dheerajtongar14",
-    url: "https://snapchat.com/add/dheerajtongar14"
+    url: "https://www.snapchat.com/add/dheerajtongar14?share_id=5bcAtcsa0Wo&locale=en-GB"
   }
 ];
 
