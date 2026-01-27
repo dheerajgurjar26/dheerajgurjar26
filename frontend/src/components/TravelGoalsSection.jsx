@@ -30,10 +30,10 @@ const TravelGoalsSection = () => {
                 <div className="h-48 overflow-hidden">
                   <img
                     src={
-                      index === 0
+                      index === 1
+                        ? 'https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg'
+                        : index === 0
                         ? 'https://images.unsplash.com/photo-1545979756-58754f4113c2?w=600&auto=format&fit=crop&q=80'
-                        : index === 1
-                        ? 'https://images.unsplash.com/photo-1546172079-906e317f07f5?w=600&auto=format&fit=crop&q=80'
                         : 'https://images.unsplash.com/photo-1545979756-58754f4113c2?w=600&auto=format&fit=crop&q=80'
                     }
                     alt={travel.destination}
