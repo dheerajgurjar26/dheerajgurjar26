@@ -1,0 +1,24 @@
+# Robots.txt for Dheeraj Tongar Official Website
+# https://dheerajtongar.in
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://dheerajtongar.in/sitemap.xml
+
+# Allow all search engines to crawl
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
