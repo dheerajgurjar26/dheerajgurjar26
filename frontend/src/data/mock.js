@@ -136,8 +136,8 @@ export const galleryImages = [
   {
     id: 1,
     category: "Professional",
-    image: "https://images.pexels.com/photos/7580984/pexels-photo-7580984.jpeg?auto=compress&cs=tinysrgb&w=800",
-    alt: "Professional Portrait"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
+    alt: "Dheeraj Tongar"
   },
   {
     id: 2,
