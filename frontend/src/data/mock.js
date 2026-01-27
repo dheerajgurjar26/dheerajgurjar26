@@ -8,11 +8,12 @@ export const personalInfo = {
   location: "Dholpur, Rajasthan, India",
   nationality: "Indian",
   introLine: "A disciplined young leader driven by ambition, integrity, and the pursuit of excellence.",
-  aboutDescription: `At just 18 years of age, I have embraced life's challenges with resilience and determination. Born and raised in the historic city of Dholpur, Rajasthan, I carry forward the rich cultural values of my heritage while aspiring for greater heights.
+  aboutDescription: `Dheeraj Tongar, fondly known as Dheeru among friends and family, is an ambitious 18-year-old from the historic city of Dholpur, Rajasthan. Also referred to as Dheeraj Gurjar and Dheeru Gurjar in his community, he carries forward rich cultural values while aspiring for greater heights.
 
 My journey reflects a commitment to personal growth, academic excellence, and professional development. I believe in the power of discipline, hard work, and maintaining strong ethical values in everything I pursue.`,
   address: "TONGAR HOUSE (PILOT RAJESH SINGH) PVCV+JRC, Dholpur, Doon Ka Pura, Rajasthan 328001",
-  mobile: "+91 8058447284"
+  mobile: "+91 8058447284",
+  alternateNames: ["Dheeru", "Dheeraj Gurjar", "Dheeru Gurjar", "Dheeraj Tongar Dheeru", "Dheeraj Tongar Gurjar"]
 };
 
 export const education = {
