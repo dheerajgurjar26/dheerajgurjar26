@@ -177,12 +177,6 @@ export const galleryImages = [
   },
   {
     id: 8,
-    category: "Fitness",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pnehyreg_IMG_20251113_231823_0612.jpg",
-    alt: "Gym Session"
-  },
-  {
-    id: 9,
     category: "Travel",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/a5a6vkz2_IMG_5761.jpeg",
     alt: "Rohtang Atal Tunnel"
