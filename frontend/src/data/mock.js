@@ -345,9 +345,9 @@ export const galleryImages = [
   },
   {
     id: 29,
-    category: "Fitness",
+    category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/u53q1bj4_IMG_2408.jpg",
-    alt: "Pool Training"
+    alt: "Aura Adventure Junction - Water Park"
   },
   {
     id: 30,
