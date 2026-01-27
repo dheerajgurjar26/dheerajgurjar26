@@ -159,21 +159,21 @@ export const galleryImages = [
   },
   {
     id: 5,
-    category: "Family",
+    category: "Travel",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg",
-    alt: "With Brothers"
+    alt: "Mall Road, Manali"
   },
   {
     id: 6,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
-    alt: "Brotherhood Bond"
+    alt: "With School Friends"
   },
   {
     id: 7,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
-    alt: "Family Moments"
+    alt: "Brotherhood Bond"
   },
   {
     id: 8,
