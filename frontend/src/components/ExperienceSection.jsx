@@ -198,6 +198,57 @@ const ExperienceSection = () => {
             Building experience in adventure tourism through hands-on involvement in family business operations.
           </p>
         </div>
+
+        {/* Younger Brother Section */}
+        <div className="mt-12 max-w-5xl mx-auto">
+          <div className="bg-white rounded-3xl overflow-hidden shadow-sm">
+            <div className="grid md:grid-cols-5 gap-0">
+              {/* Main Photo */}
+              <div className="md:col-span-2 h-72 md:h-auto">
+                <img 
+                  src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vwzq8btg_IMG_20260128_035650.jpg"
+                  alt="Prashant Tongar"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              {/* Content */}
+              <div className="md:col-span-3 p-8 flex flex-col justify-center">
+                <p className="text-emerald-600 text-sm font-medium uppercase tracking-wide mb-2">Family</p>
+                <h3 className="font-serif text-2xl font-bold text-slate-800 mb-2">
+                  Prashant Tongar
+                </h3>
+                <p className="text-slate-600 mb-4">Younger Brother</p>
+                <p className="text-slate-500 leading-relaxed mb-6">
+                  My younger brother and constant companion in life's journey. Together we share adventures, dreams, and the values instilled by our family.
+                </p>
+                {/* Brother's Photo Gallery */}
+                <div className="grid grid-cols-3 gap-3">
+                  <div className="rounded-lg overflow-hidden h-20">
+                    <img 
+                      src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bxpwbasn_IMG_20260128_035627.jpg"
+                      alt="Prashant Tongar"
+                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
+                  <div className="rounded-lg overflow-hidden h-20">
+                    <img 
+                      src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z87yh159_IMG_20260128_035638.jpg"
+                      alt="Prashant Tongar"
+                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
+                  <div className="rounded-lg overflow-hidden h-20">
+                    <img 
+                      src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/fm4umxir_IMG_20260128_035702.jpg"
+                      alt="Prashant Tongar"
+                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
