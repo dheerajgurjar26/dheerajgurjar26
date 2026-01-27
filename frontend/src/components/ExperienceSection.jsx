@@ -1,6 +1,11 @@
 import React from 'react';
-import { Briefcase, Building2, Users, CheckCircle2 } from 'lucide-react';
+import { Users, CheckCircle2 } from 'lucide-react';
 import { professionalExperience } from '../data/mock';
+
+const companyLogos = [
+  "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/3uk8jtcp_IMG_20251231_090250009.png",
+  "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/6c7xxfci_IMG_20250614_095423.jpg"
+];
 
 const ExperienceSection = () => {
   return (
@@ -24,19 +29,19 @@ const ExperienceSection = () => {
               key={exp.id}
               className="bg-white rounded-3xl shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden group"
             >
-              {/* Header */}
-              <div className="bg-emerald-800 p-6 group-hover:bg-emerald-900 transition-colors">
-                <div className="flex items-start gap-4">
-                  <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center flex-shrink-0">
-                    {index === 0 ? (
-                      <Building2 size={28} className="text-white" />
-                    ) : (
-                      <Briefcase size={28} className="text-white" />
-                    )}
+              {/* Header with Logo */}
+              <div className="bg-slate-800 p-6 group-hover:bg-slate-900 transition-colors">
+                <div className="flex items-center gap-4">
+                  <div className="w-16 h-16 bg-white rounded-2xl flex items-center justify-center flex-shrink-0 overflow-hidden p-1">
+                    <img 
+                      src={companyLogos[index]} 
+                      alt={exp.company}
+                      className="w-full h-full object-contain"
+                    />
                   </div>
                   <div>
-                    <h3 className="text-white font-bold text-xl mb-1">{exp.company}</h3>
-                    <p className="text-emerald-200 text-sm">{exp.role}</p>
+                    <h3 className="text-white font-bold text-lg mb-1">{exp.company}</h3>
+                    <p className="text-emerald-400 text-sm font-medium">{exp.role}</p>
                   </div>
                 </div>
               </div>
@@ -60,22 +65,35 @@ const ExperienceSection = () => {
           ))}
         </div>
 
-        {/* Business Image */}
+        {/* Company Logos Banner */}
         <div className="mt-16 max-w-5xl mx-auto">
-          <div className="relative rounded-3xl overflow-hidden">
-            <img
-              src="https://images.unsplash.com/photo-1507608443039-bfde4fbcd142?w=1200&auto=format&fit=crop&q=80"
-              alt="Hot Air Balloon Business"
-              className="w-full h-72 object-cover"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-slate-900/40 to-transparent flex items-end">
-              <div className="p-8 md:p-12">
-                <p className="text-emerald-400 font-medium mb-2">Family Business Involvement</p>
-                <h3 className="text-white font-serif text-2xl md:text-3xl font-bold">
-                  Building Experience in Adventure Tourism
-                </h3>
+          <div className="bg-white rounded-3xl p-8 shadow-sm">
+            <p className="text-center text-slate-500 text-sm uppercase tracking-wide mb-6">Family Business Ventures</p>
+            <div className="flex flex-wrap justify-center items-center gap-8 md:gap-16">
+              <div className="flex flex-col items-center">
+                <div className="w-32 h-32 flex items-center justify-center">
+                  <img 
+                    src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/3uk8jtcp_IMG_20251231_090250009.png"
+                    alt="Aura Adventure Junction LLP"
+                    className="max-w-full max-h-full object-contain"
+                  />
+                </div>
+                <p className="mt-3 text-slate-700 font-medium text-sm text-center">Aura Adventure Junction LLP</p>
+              </div>
+              <div className="flex flex-col items-center">
+                <div className="w-32 h-32 flex items-center justify-center">
+                  <img 
+                    src="https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/6c7xxfci_IMG_20250614_095423.jpg"
+                    alt="Bella Hot Air Balloon Rides"
+                    className="max-w-full max-h-full object-contain"
+                  />
+                </div>
+                <p className="mt-3 text-slate-700 font-medium text-sm text-center">Bella Hot Air Balloon Rides</p>
               </div>
             </div>
+            <p className="text-center text-slate-600 mt-8 max-w-2xl mx-auto">
+              Building experience in adventure tourism through hands-on involvement in family business operations.
+            </p>
           </div>
         </div>
       </div>
