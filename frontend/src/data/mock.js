@@ -291,6 +291,30 @@ export const galleryImages = [
   },
   {
     id: 24,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vwzq8btg_IMG_20260128_035650.jpg",
+    alt: "Prashant Tongar - Younger Brother"
+  },
+  {
+    id: 25,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bxpwbasn_IMG_20260128_035627.jpg",
+    alt: "Prashant Tongar - Adventure"
+  },
+  {
+    id: 26,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z87yh159_IMG_20260128_035638.jpg",
+    alt: "Prashant Tongar - Travel"
+  },
+  {
+    id: 27,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/fm4umxir_IMG_20260128_035702.jpg",
+    alt: "Prashant Tongar - Riverside"
+  },
+  {
+    id: 28,
     category: "Childhood",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
     alt: "Childhood Memory"
