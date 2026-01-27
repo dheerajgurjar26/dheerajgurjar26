@@ -260,19 +260,13 @@ export const galleryImages = [
     alt: "Adventure Activities Ground"
   },
   {
-    id: 23,
-    category: "Business",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/qzz3geos_IMG-20250617-WA0010.jpg",
-    alt: "Aura Adventure Junction"
-  },
-  {
     id: 24,
     category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hi88yhj9_IMG-20250617-WA0013.jpg",
     alt: "Adventure Resort Pool"
   },
   {
-    id: 20,
+    id: 25,
     category: "Family",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
     alt: "With School Friends"
