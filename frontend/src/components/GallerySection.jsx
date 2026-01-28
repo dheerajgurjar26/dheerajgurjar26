@@ -6,7 +6,11 @@ const GallerySection = () => {
   const [selectedImage, setSelectedImage] = useState(null);
   const [activeFilter, setActiveFilter] = useState('All');
 
-  const categories = ['All', ...new Set(galleryImages.map((img) => img.category))];
+  // Define category order: Fitness → Travel → Family → Casual → Childhood → Business
+  const categoryOrder = ['All', 'Fitness', 'Travel', 'Family', 'Casual', 'Childhood', 'Business'];
+  const categories = categoryOrder.filter(cat => 
+    cat === 'All' || galleryImages.some(img => img.category === cat)
+  );
 
   const filteredImages =
     activeFilter === 'All'
