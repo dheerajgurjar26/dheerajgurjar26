@@ -92,7 +92,7 @@ const Footer = () => {
       <div className="border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-4">
           <p className="text-slate-600 text-xs text-center">
-            Official website of Dheeraj Tongar | Also known as Dheeru, Dheeraj Gurjar, Dheeru Gurjar | Student & Business Executive from Dholpur, Rajasthan | District Wushu Medalist | Aspiring Lawyer
+            Official website of Dheeraj Tongar | Also known as Dheeru, Dheeru Tongar, Dheeraj Gurjar, Dheeru Gurjar | Student & Business Executive from Dholpur, Rajasthan | District Wushu Medalist | Aspiring Lawyer
           </p>
         </div>
       </div>
