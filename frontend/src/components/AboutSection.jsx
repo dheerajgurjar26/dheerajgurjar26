@@ -24,7 +24,7 @@ const AboutSection = () => {
           <div className="w-20 h-1 bg-emerald-600 mx-auto rounded-full" />
           {/* Also Known As - SEO */}
           <p className="mt-4 text-slate-500 text-sm">
-            Also known as: <span className="text-emerald-700 font-medium">Dheeru</span> • <span className="text-emerald-700 font-medium">Dheeraj Gurjar</span> • <span className="text-emerald-700 font-medium">Dheeru Gurjar</span>
+            Also known as: <span className="text-emerald-700 font-medium">Dheeru</span> • <span className="text-emerald-700 font-medium">Dheeraj Gurjar</span> • <span className="text-emerald-700 font-medium">Dheeru Tongar</span> • <span className="text-emerald-700 font-medium">Dheeru Gurjar</span>
           </p>
         </div>
 
