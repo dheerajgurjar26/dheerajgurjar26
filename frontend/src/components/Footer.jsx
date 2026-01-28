@@ -30,7 +30,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div>
             <h3 className="font-serif text-2xl font-bold mb-2">{personalInfo.fullName}</h3>
-            <p className="text-emerald-400 text-sm mb-4">Dheeru | Dheeraj Gurjar | Dheeru Gurjar</p>
+            <p className="text-emerald-400 text-sm mb-4">Dheeru | Dheeru Tongar | Dheeraj Gurjar | Dheeru Gurjar</p>
             <p className="text-slate-400 leading-relaxed mb-6">
               {personalInfo.tagline}
             </p>
