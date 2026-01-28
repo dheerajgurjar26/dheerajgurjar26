@@ -136,227 +136,264 @@ export const socialLinks = [
 ];
 
 export const galleryImages = [
+  // ========== FITNESS PHOTOS (First) ==========
   {
     id: 1,
-    category: "Professional",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mj0z7dk0_IMG20251220005251.jpg",
-    alt: "Dheeraj Tongar - Portrait"
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/764iaqh4_IMG_20250926_222822%20%281%29.jpg",
+    alt: "Dheeraj Tongar Dheeru Gym Training"
   },
   {
     id: 2,
-    category: "Lifestyle",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hah6w70y_IMG_20260128_024829.jpg",
-    alt: "Dheeraj Tongar - Outdoor"
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/ewrv7hcp_IMG_20250918_203002.jpg",
+    alt: "Dheeraj Tongar Dheeru Gurjar Fitness"
   },
   {
     id: 3,
-    category: "Casual",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
-    alt: "Dheeraj Tongar - Casual"
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/cq1zi0na_IMG_20250905_233350_840.webp",
+    alt: "Dheeru Tongar Fitness Journey"
   },
   {
     id: 4,
-    category: "Casual",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/4m8wn7x8_IMG_0586%20%281%29.jpg",
-    alt: "Dheeraj Tongar"
+    category: "Fitness",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xic7fprm_IMG_20250714_191821.jpg",
+    alt: "Dheeraj Gurjar Gym Progress"
   },
+  
+  // ========== TRAVEL PHOTOS (Second) ==========
   {
     id: 5,
-    category: "Fitness",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/764iaqh4_IMG_20250926_222822%20%281%29.jpg",
-    alt: "Gym Training - Strength"
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/a5a6vkz2_IMG_5761.jpeg",
+    alt: "Dheeraj Tongar at Rohtang Atal Tunnel"
   },
   {
     id: 6,
-    category: "Fitness",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/ewrv7hcp_IMG_20250918_203002.jpg",
-    alt: "Gym Workout"
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/p6ygjpsy_IMG_5756.jpeg",
+    alt: "Dheeru Tongar Snow Adventure Manali"
   },
   {
     id: 7,
-    category: "Fitness",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/cq1zi0na_IMG_20250905_233350_840.webp",
-    alt: "Fitness Journey"
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xo7vtp41_IMG_20251127_195833_942.webp",
+    alt: "Dheeraj Tongar Mall Road Manali"
   },
   {
     id: 8,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/a5a6vkz2_IMG_5761.jpeg",
-    alt: "Rohtang Atal Tunnel"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/jwsdchqp_1000394590.jpg",
+    alt: "Dheeraj Tongar Dheeru Heritage Site"
+  },
+  {
+    id: 9,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/eiwugm5c_IMG_20250808_013835%20%281%29.jpg",
+    alt: "Dheeru Gurjar Travel Photography"
   },
   {
     id: 10,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/p6ygjpsy_IMG_5756.jpeg",
-    alt: "Snow Adventure"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/2jnii73n_1000011166-01.jpeg",
+    alt: "Dheeraj Gurjar River Crossing Kashmir"
   },
   {
     id: 11,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/2jnii73n_1000011166-01.jpeg",
-    alt: "River Crossing, Kashmir"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1cvgip2b_IMG_5530.JPG",
+    alt: "Dheeraj Tongar Mountain Bridge"
   },
   {
     id: 12,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1cvgip2b_IMG_5530.JPG",
-    alt: "Mountain Bridge"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1m1arz11_IMG_5561.JPG",
+    alt: "Dheeru Tongar Snowy Mountain Vista"
   },
   {
     id: 13,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1m1arz11_IMG_5561.JPG",
-    alt: "Snowy Mountain Vista"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg",
+    alt: "Dheeraj Tongar Mall Road Manali Night"
   },
   {
     id: 14,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg",
-    alt: "Mall Road, Manali"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/akj5fyaa_IMG_5434.JPG",
+    alt: "Dheeru River Adventure Mountains"
   },
   {
     id: 15,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/akj5fyaa_IMG_5434.JPG",
-    alt: "River Adventure"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg",
+    alt: "Dheeraj Gurjar Valley Views"
   },
   {
     id: 16,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg",
-    alt: "Valley Views"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg",
+    alt: "Dheeraj Tongar Golden Cliffs"
   },
+  
+  // ========== TRAVEL WITH FRIENDS ==========
   {
     id: 17,
     category: "Travel",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg",
-    alt: "Golden Cliffs"
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/7wpn0re0_IMG_9858.JPG",
+    alt: "Dheeraj Tongar with Friends Heritage Site"
   },
   {
     id: 18,
-    category: "Business",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg",
-    alt: "Bella Hot Air Balloon in Flight"
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z9nh0sgq_IMG_20251207_200116.jpg",
+    alt: "Dheeru Tongar with Friends"
   },
+  
+  // ========== FAMILY PHOTOS (Third) ==========
   {
     id: 19,
-    category: "Business",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg",
-    alt: "Aerial View - Adventure Park"
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vwzq8btg_IMG_20260128_035650.jpg",
+    alt: "Prashant Tongar - Dheeraj's Younger Brother"
   },
   {
     id: 20,
-    category: "Business",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/utov1ruw_IMG_20260126_211513.jpg",
-    alt: "Customers at Bella Hot Air Balloon"
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bxpwbasn_IMG_20260128_035627.jpg",
+    alt: "Prashant Tongar Adventure"
   },
   {
     id: 21,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z87yh159_IMG_20260128_035638.jpg",
+    alt: "Prashant Tongar Travel"
+  },
+  {
+    id: 22,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/fm4umxir_IMG_20260128_035702.jpg",
+    alt: "Prashant Tongar Riverside"
+  },
+  {
+    id: 23,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
+    alt: "Dheeraj Tongar with School Friends"
+  },
+  {
+    id: 24,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
+    alt: "Dheeraj Tongar Brotherhood"
+  },
+  {
+    id: 25,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/klrw9zi8_IMG_20251007_123507.jpg",
+    alt: "Dheeru Tongar with Brothers"
+  },
+  {
+    id: 26,
+    category: "Family",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pbsf7geh_IMG_20250911_222404.jpg",
+    alt: "Dheeraj Gurjar Sibling Bond"
+  },
+  
+  // ========== CASUAL PHOTOS (Fourth) ==========
+  {
+    id: 27,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mj0z7dk0_IMG20251220005251.jpg",
+    alt: "Dheeraj Tongar Dheeru Gurjar Portrait"
+  },
+  {
+    id: 28,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hah6w70y_IMG_20260128_024829.jpg",
+    alt: "Dheeraj Tongar Outdoor Lifestyle"
+  },
+  {
+    id: 29,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
+    alt: "Dheeru Tongar Casual Style"
+  },
+  {
+    id: 30,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/4m8wn7x8_IMG_0586%20%281%29.jpg",
+    alt: "Dheeraj Gurjar Casual"
+  },
+  
+  // ========== CHILDHOOD ==========
+  {
+    id: 31,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
+    alt: "Dheeraj Tongar Childhood Memory"
+  },
+  {
+    id: 32,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
+    alt: "Young Dheeraj Tongar Dheeru"
+  },
+  {
+    id: 33,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
+    alt: "Dheeru Gurjar Childhood Days"
+  },
+  {
+    id: 34,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
+    alt: "Dheeraj Tongar Growing Up"
+  },
+  {
+    id: 35,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vq3rpu4e_IMG_20250609_184751.jpg",
+    alt: "Little Dheeraj Tongar"
+  },
+  
+  // ========== BUSINESS ==========
+  {
+    id: 36,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg",
+    alt: "Bella Hot Air Balloon Rides - Dheeraj Tongar Family Business"
+  },
+  {
+    id: 37,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg",
+    alt: "Aura Adventure Junction - Dheeru Tongar Business"
+  },
+  {
+    id: 38,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/utov1ruw_IMG_20260126_211513.jpg",
+    alt: "Dheeraj Tongar Hot Air Balloon Customers"
+  },
+  {
+    id: 39,
     category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/yqgvg8y4_IMG_20260126_212408.jpg",
     alt: "Aura Adventure Junction Park"
   },
   {
-    id: 22,
+    id: 40,
     category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xzmdsju3_IMG_20260126_211500.jpg",
-    alt: "Adventure Activities Ground"
+    alt: "Adventure Activities - Dheeraj Tongar"
   },
   {
-    id: 24,
-    category: "Business",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hi88yhj9_IMG-20250617-WA0013.jpg",
-    alt: "Adventure Resort Pool"
-  },
-  {
-    id: 25,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
-    alt: "With School Friends"
-  },
-  {
-    id: 21,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
-    alt: "Brotherhood Bond"
-  },
-  {
-    id: 22,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/klrw9zi8_IMG_20251007_123507.jpg",
-    alt: "Together Always"
-  },
-  {
-    id: 23,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pbsf7geh_IMG_20250911_222404.jpg",
-    alt: "Sibling Love"
-  },
-  {
-    id: 24,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vwzq8btg_IMG_20260128_035650.jpg",
-    alt: "Prashant Tongar - Younger Brother"
-  },
-  {
-    id: 25,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bxpwbasn_IMG_20260128_035627.jpg",
-    alt: "Prashant Tongar - Adventure"
-  },
-  {
-    id: 26,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z87yh159_IMG_20260128_035638.jpg",
-    alt: "Prashant Tongar - Travel"
-  },
-  {
-    id: 27,
-    category: "Family",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/fm4umxir_IMG_20260128_035702.jpg",
-    alt: "Prashant Tongar - Riverside"
-  },
-  {
-    id: 28,
-    category: "Childhood",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
-    alt: "Childhood Memory"
-  },
-  {
-    id: 25,
-    category: "Childhood",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
-    alt: "Young Dheeraj"
-  },
-  {
-    id: 26,
-    category: "Childhood",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
-    alt: "Childhood Days"
-  },
-  {
-    id: 27,
-    category: "Childhood",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
-    alt: "Growing Up"
-  },
-  {
-    id: 28,
-    category: "Childhood",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vq3rpu4e_IMG_20250609_184751.jpg",
-    alt: "Little Dheeraj - Adorable Moments"
-  },
-  {
-    id: 29,
+    id: 41,
     category: "Business",
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/u53q1bj4_IMG_2408.jpg",
-    alt: "Aura Adventure Junction - Water Park"
-  },
-  {
-    id: 30,
-    category: "Fitness",
-    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xic7fprm_IMG_20250714_191821.jpg",
-    alt: "Gym Progress"
+    alt: "Aura Adventure Junction Water Park"
   }
 ];
 
