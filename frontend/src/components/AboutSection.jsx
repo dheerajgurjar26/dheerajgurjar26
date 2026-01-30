@@ -1,13 +1,13 @@
 import React from 'react';
-import { Calendar, MapPin, User, Flag, Users } from 'lucide-react';
+import { MapPin, User, Flag, Briefcase, Scale } from 'lucide-react';
 import { personalInfo } from '../data/mock';
 
 const AboutSection = () => {
   const infoItems = [
     { icon: User, label: 'Full Name', value: personalInfo.fullName },
-    { icon: Calendar, label: 'Date of Birth', value: personalInfo.dateOfBirth },
     { icon: MapPin, label: 'Location', value: personalInfo.location },
     { icon: Flag, label: 'Nationality', value: personalInfo.nationality },
+    { icon: Briefcase, label: 'Role', value: 'Operations & Business Executive' },
   ];
 
   return (
@@ -28,38 +28,42 @@ const AboutSection = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-16 items-center">
-          {/* About Text */}
-          <div>
-            <p className="text-slate-600 text-lg leading-relaxed whitespace-pre-line">
+        <div className="grid lg:grid-cols-5 gap-12 items-start">
+          {/* About Text - Larger */}
+          <div className="lg:col-span-3">
+            <p className="text-slate-600 text-lg leading-relaxed whitespace-pre-line mb-8">
               {personalInfo.aboutDescription}
             </p>
+            {/* Signature */}
+            <div className="border-t border-slate-200 pt-6 mt-6">
+              <p className="font-serif text-xl text-slate-800 italic">— Dheeraj Tongar</p>
+            </div>
           </div>
 
-          {/* Info Cards */}
-          <div className="grid grid-cols-2 gap-4">
+          {/* Info Cards - Compact */}
+          <div className="lg:col-span-2 grid grid-cols-2 gap-4">
             {infoItems.map((item, index) => (
               <div
                 key={index}
-                className="bg-slate-50 rounded-2xl p-6 hover:bg-emerald-50 transition-colors duration-300 group"
+                className="bg-slate-50 rounded-2xl p-5 hover:bg-emerald-50 transition-colors duration-300 group"
               >
-                <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center mb-4 shadow-sm group-hover:shadow-md transition-shadow">
-                  <item.icon size={24} className="text-emerald-700" />
+                <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center mb-3 shadow-sm group-hover:shadow-md transition-shadow">
+                  <item.icon size={20} className="text-emerald-700" />
                 </div>
-                <p className="text-slate-500 text-sm mb-1">{item.label}</p>
-                <p className="text-slate-800 font-semibold">{item.value}</p>
+                <p className="text-slate-500 text-xs mb-1">{item.label}</p>
+                <p className="text-slate-800 font-semibold text-sm">{item.value}</p>
               </div>
             ))}
           </div>
         </div>
 
-        {/* Age Badge */}
+        {/* Aspiration Badge */}
         <div className="mt-16 text-center">
-          <div className="inline-flex items-center gap-3 bg-emerald-50 px-8 py-4 rounded-full">
-            <span className="text-4xl font-serif font-bold text-emerald-800">{personalInfo.age}</span>
+          <div className="inline-flex items-center gap-4 bg-emerald-50 px-8 py-4 rounded-full">
+            <Scale size={28} className="text-emerald-700" />
             <div className="text-left">
-              <p className="text-slate-500 text-sm">of age</p>
-              <p className="text-slate-700 font-medium">Young & Ambitious</p>
+              <p className="text-slate-500 text-sm">Aspiration</p>
+              <p className="text-slate-800 font-semibold">Career in Law & Judiciary</p>
             </div>
           </div>
         </div>
