@@ -404,6 +404,7 @@ export const navLinks = [
   { id: 4, label: "Achievements", href: "#achievements" },
   { id: 5, label: "Experience", href: "#experience" },
   { id: 6, label: "Journey", href: "#journey" },
-  { id: 7, label: "Gallery", href: "#gallery" },
-  { id: 8, label: "Contact", href: "#contact" }
+  { id: 7, label: "Farewell", href: "#farewell" },
+  { id: 8, label: "Gallery", href: "#gallery" },
+  { id: 9, label: "Contact", href: "#contact" }
 ];
