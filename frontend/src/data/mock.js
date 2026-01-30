@@ -241,6 +241,236 @@ export const galleryImages = [
     image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg",
     alt: "Dheeraj Tongar Golden Cliffs"
   },
+  {
+    id: 17,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/7wpn0re0_IMG_9858.JPG",
+    alt: "Dheeraj Tongar with Friends Heritage Site"
+  },
+  {
+    id: 18,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z9nh0sgq_IMG_20251207_200116.jpg",
+    alt: "Dheeru Tongar with Friends"
+  },
+  
+  // ========== FAMILY - FATHER (Third) ==========
+  {
+    id: 19,
+    category: "Father",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/e8vuwwos_IMG-20210109-WA0017-1.jpg",
+    alt: "Mr. Rajesh Singh - Father of Dheeraj Tongar"
+  },
+  {
+    id: 20,
+    category: "Father",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pvegtrnv_IMG_20231208_141003.jpg",
+    alt: "Mr. Rajesh Singh - Travel"
+  },
+  {
+    id: 21,
+    category: "Father",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mi9p2sjb_IMG20240903130728.jpg",
+    alt: "Mr. Rajesh Singh"
+  },
+  {
+    id: 22,
+    category: "Father",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/jk9jthq6_IMG_20240925_200524.jpg",
+    alt: "Mr. Rajesh Singh - Office"
+  },
+  
+  // ========== FAMILY - YOUNGER BROTHER ==========
+  {
+    id: 23,
+    category: "Younger Brother",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vwzq8btg_IMG_20260128_035650.jpg",
+    alt: "Prashant Tongar - Dheeraj's Younger Brother"
+  },
+  {
+    id: 24,
+    category: "Younger Brother",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bxpwbasn_IMG_20260128_035627.jpg",
+    alt: "Prashant Tongar Adventure"
+  },
+  {
+    id: 25,
+    category: "Younger Brother",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/z87yh159_IMG_20260128_035638.jpg",
+    alt: "Prashant Tongar Travel"
+  },
+  {
+    id: 26,
+    category: "Younger Brother",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/fm4umxir_IMG_20260128_035702.jpg",
+    alt: "Prashant Tongar Riverside"
+  },
+  
+  // ========== FAMILY - SCHOOL FRIENDS ==========
+  {
+    id: 27,
+    category: "School Friends",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/q0dg75mg_IMG_20251004_183902.jpg",
+    alt: "Dheeraj Tongar with School Friends"
+  },
+  {
+    id: 28,
+    category: "School Friends",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/asspac3c_IMG_20251006_213809.jpg",
+    alt: "Dheeraj Tongar Brotherhood"
+  },
+  {
+    id: 29,
+    category: "School Friends",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/klrw9zi8_IMG_20251007_123507.jpg",
+    alt: "Dheeru Tongar with Brothers"
+  },
+  {
+    id: 30,
+    category: "School Friends",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/pbsf7geh_IMG_20250911_222404.jpg",
+    alt: "Dheeraj Gurjar Sibling Bond"
+  },
+  
+  // ========== CASUAL / PROFESSIONAL ==========
+  {
+    id: 31,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/mj0z7dk0_IMG20251220005251.jpg",
+    alt: "Dheeraj Tongar Dheeru Gurjar Portrait"
+  },
+  {
+    id: 32,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/hah6w70y_IMG_20260128_024829.jpg",
+    alt: "Dheeraj Tongar Outdoor Lifestyle"
+  },
+  {
+    id: 33,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/du9qrnbx_IMG_20260114_201436_524.webp",
+    alt: "Dheeru Tongar Casual Style"
+  },
+  {
+    id: 34,
+    category: "Casual",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/4m8wn7x8_IMG_0586%20%281%29.jpg",
+    alt: "Dheeraj Gurjar Casual"
+  },
+  
+  // ========== CHILDHOOD ==========
+  {
+    id: 35,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xhwdjtyh_IMG_20251106_073857.jpg",
+    alt: "Dheeraj Tongar Childhood Memory"
+  },
+  {
+    id: 36,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1wk7vgx4_IMG20250808175907.jpg",
+    alt: "Young Dheeraj Tongar Dheeru"
+  },
+  {
+    id: 37,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/lxx5k1de_IMG_20250830_082715.jpg",
+    alt: "Dheeru Gurjar Childhood Days"
+  },
+  {
+    id: 38,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/g7vx7fk7_IMG_5523_1.JPG",
+    alt: "Dheeraj Tongar Growing Up"
+  },
+  {
+    id: 39,
+    category: "Childhood",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vq3rpu4e_IMG_20250609_184751.jpg",
+    alt: "Little Dheeraj Tongar"
+  },
+  
+  // ========== BUSINESS ==========
+  {
+    id: 40,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/bujfa1k6_IMG_20260126_212456.jpg",
+    alt: "Bella Hot Air Balloon Rides - Dheeraj Tongar Family Business"
+  },
+  {
+    id: 41,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/kw1wsqf8_IMG_20260126_213502.jpg",
+    alt: "Aura Adventure Junction - Dheeru Tongar Business"
+  },
+  {
+    id: 42,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/utov1ruw_IMG_20260126_211513.jpg",
+    alt: "Dheeraj Tongar Hot Air Balloon Customers"
+  },
+  {
+    id: 43,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/yqgvg8y4_IMG_20260126_212408.jpg",
+    alt: "Aura Adventure Junction Park"
+  },
+  {
+    id: 44,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/xzmdsju3_IMG_20260126_211500.jpg",
+    alt: "Adventure Activities - Dheeraj Tongar"
+  },
+  {
+    id: 45,
+    category: "Business",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/u53q1bj4_IMG_2408.jpg",
+    alt: "Aura Adventure Junction Water Park"
+  }
+];
+  },
+  {
+    id: 10,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/2jnii73n_1000011166-01.jpeg",
+    alt: "Dheeraj Gurjar River Crossing Kashmir"
+  },
+  {
+    id: 11,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1cvgip2b_IMG_5530.JPG",
+    alt: "Dheeraj Tongar Mountain Bridge"
+  },
+  {
+    id: 12,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/1m1arz11_IMG_5561.JPG",
+    alt: "Dheeru Tongar Snowy Mountain Vista"
+  },
+  {
+    id: 13,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/h6y0q2lc_IMG_20251127_204124.jpg",
+    alt: "Dheeraj Tongar Mall Road Manali Night"
+  },
+  {
+    id: 14,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/akj5fyaa_IMG_5434.JPG",
+    alt: "Dheeru River Adventure Mountains"
+  },
+  {
+    id: 15,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/vrp947lk_IMG_20250331_230408.jpg",
+    alt: "Dheeraj Gurjar Valley Views"
+  },
+  {
+    id: 16,
+    category: "Travel",
+    image: "https://customer-assets.emergentagent.com/job_tongar-profile/artifacts/180fopu6_IMG_5482-01.jpeg",
+    alt: "Dheeraj Tongar Golden Cliffs"
+  },
   
   // ========== TRAVEL WITH FRIENDS ==========
   {
