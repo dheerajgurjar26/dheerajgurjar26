@@ -9,6 +9,7 @@ import SportsSection from "./components/SportsSection";
 import ExperienceSection from "./components/ExperienceSection";
 import JourneySection from "./components/JourneySection";
 import TravelGoalsSection from "./components/TravelGoalsSection";
+import FarewellSection from "./components/FarewellSection";
 import GallerySection from "./components/GallerySection";
 import ContactSection from "./components/ContactSection";
 import Footer from "./components/Footer";
@@ -25,6 +26,7 @@ const HomePage = () => {
         <ExperienceSection />
         <JourneySection />
         <TravelGoalsSection />
+        <FarewellSection />
         <GallerySection />
         <ContactSection />
       </main>
