@@ -3,14 +3,20 @@
 export const personalInfo = {
   fullName: "Dheeraj Tongar",
   tagline: "Student | Operations & Business Executive | District Wushu Medalist | Aspiring Lawyer",
-  dateOfBirth: "14 May 2008",
-  age: "18 Years",
   location: "Dholpur, Rajasthan, India",
   nationality: "Indian",
   introLine: "A disciplined young leader driven by ambition, integrity, and the pursuit of excellence.",
-  aboutDescription: `Dheeraj Tongar, fondly known as Dheeru among friends and family, is an ambitious 18-year-old from the historic city of Dholpur, Rajasthan. Also referred to as Dheeraj Gurjar, Dheeru Tongar, and Dheeru Gurjar in his community, he carries forward rich cultural values while aspiring for greater heights.
+  aboutDescription: `I am Dheeraj Tongar, a person driven by discipline, curiosity, and purpose. I have a strong passion for adventure and travel, which has shaped my perspective and adaptability.
 
-My journey reflects a commitment to personal growth, academic excellence, and professional development. I believe in the power of discipline, hard work, and maintaining strong ethical values in everything I pursue.`,
+Sports are an important part of my life. I actively enjoy football and Wushu, which have taught me focus, resilience, and self-control. Along with this, I enjoy strategic mobile gaming, especially Free Fire, as it enhances decision-making skills.
+
+Professionally, I work with my father's companies in the role of Operations & Business Executive, handling operations and quotation management. This is a choice I make willingly, driven by interest, learning, and responsibility—not pressure.
+
+My long-term aspiration is to build a career in law and the judiciary. I strongly believe in justice, ethics, and service to society. I remain open to growth and learning while staying committed to values and integrity.
+
+I deeply believe in respecting elders, parents, and teachers, as they form the foundation of education, character, and discipline.
+
+This website represents my journey, values, and evolving ambitions.`,
   address: "TONGAR HOUSE (PILOT RAJESH SINGH) PVCV+JRC, Dholpur, Doon Ka Pura, Rajasthan 328001",
   mobile: "+91 8058447284",
   alternateNames: ["Dheeru", "Dheeraj Gurjar", "Dheeru Gurjar", "Dheeru Tongar", "Dheeraj Tongar Dheeru", "Dheeraj Tongar Gurjar"]
